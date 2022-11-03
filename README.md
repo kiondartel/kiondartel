@@ -1,4 +1,4 @@
-### Olá! me hamo Gabriel Lucas, 24anos, estudante de A.D.S 😀
+### Bem vino! Me chamo Gabriel Lucas, tenho 24anos, atualmente cursando A.D.S 😀
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gbiellukas/)
 
