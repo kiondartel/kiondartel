@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lucas-539a28234/)
 
-![Kiondartel GitHub stats](https://github-readme-stats.vercel.app/api?username=kiondartel&show_icons=true&theme=dracula)
+
 
 ## Stacks 
 <div> 
