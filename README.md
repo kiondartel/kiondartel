@@ -1,5 +1,6 @@
 ### Bem vindo! 😀
-<h1>Contato:  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lucas-539a28234/)</h1>
+## Contato:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/gabriel-lucas-539a28234/)](https://www.linkedin.com/in/gabriel-lucas-539a28234/)
 
 
 
