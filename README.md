@@ -1,6 +1,6 @@
 # Welcome! 😀
 
-I'm Gabriel Lucas, a passionate full-stack developer with a knack for creating elegant solutions in the least amount of code. Welcome to my GitHub!
+I'm Gabriel Lucas, a Front-end Developer passionate about creating intuitive and visually pleasing user experiences!
 
 ## Contact
 
