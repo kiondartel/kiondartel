@@ -1,6 +1,6 @@
 # Welcome! 😀
 
-I'm Gabriel Lucas, a Front-end Developer passionate about creating intuitive and visually pleasing user experiences!
+I'm Gabriel Lucas, with two years of experience in JavaScript, TypeScript, and React. I'm involved in all phases of web development, from conception to maintenance. I specialize in creating responsive and optimized interfaces
 
 ## Contact
 
